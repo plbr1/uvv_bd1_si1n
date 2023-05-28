@@ -1,2 +1,18 @@
-# uvv_bd1_si1n
-Repositório para o PSET do professor Abrantes Araújo Silva Filho, matéria de Banco de Dados da Universidade de Vila Velha.
+# Projeto de Banco de Dados para um Sistema Fictício de Lojas
+
+
+### Sobre o projeto
+##### Professor: Abrantes Araújo Silva Filho (https://github.com/abrantesasf)
+##### Matéria: Banco de Dados
+##### Curso: Sistemas de Informação
+##### Universidade: Universidade de Vila Velha
+##### Aluno: Pedro Luis Breda
+##### Turma: SI/1N
+
+
+### Tecnologia utilizada
+  -PostgreSQL
+
+### Feito por: Pedro Luis Breda
+https://www.linkedin.com/in/pedro-lu%C3%ADs-breda-3bb20b265/
+
