@@ -1,4 +1,4 @@
-# Projeto de Banco de Dados para um Sistema Fictício de Lojas
+# Projeto de Banco de Dados
 
 
 ### Sobre o projeto
