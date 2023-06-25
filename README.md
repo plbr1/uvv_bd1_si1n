@@ -2,7 +2,7 @@
 
 
 ### Sobre o projeto
-##### Professor: Abrantes Araújo Silva Filho (https://github.com/abrantesasf)
+##### Professor: Abrantes Araújo Silva Filho [GitHub](https://github.com/abrantesasf)
 ##### Matéria: Banco de Dados
 ##### Curso: Sistemas de Informação
 ##### Universidade: Universidade de Vila Velha
@@ -14,5 +14,5 @@
   -PostgreSQL
 
 ### Feito por: Pedro Luis Breda
-https://www.linkedin.com/in/pedro-lu%C3%ADs-breda-3bb20b265/
+[Linkedin](https://www.linkedin.com/in/pedro-lu%C3%ADs-breda-3bb20b265/)
 
