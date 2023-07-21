@@ -14,7 +14,6 @@
 ### Tecnologia utilizada
   -PostgreSQL
 
-### Feito por: Pedro Luis Breda
-[Linkedin](https://www.linkedin.com/in/pedro-lu%C3%ADs-breda-3bb20b265/)
+### Feito por: Pedro Luis Breda ([Linkedin](https://www.linkedin.com/in/pedro-lu%C3%ADs-breda-3bb20b265/))
 
 Aviso --> este projeto é de autoria de Pedro Luis Breda e segue a licença MIT. Sinta-se à vontade para utilizá-lo como referência ou base para seus próprios projetos acadêmicos.
