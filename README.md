@@ -2,7 +2,7 @@
 
 
 ## Sobre o projeto 
- Este é um projeto com contexto fictício desenvolvido como parte da disciplina de Banco de Dados, ministrada pelo professor [Abrantes Araújo Silva Filho](https://github.com/abrantesasf) no curso de Sistemas de Informação da Universidade de Vila Velha (UVV).
+ Este é um projeto com contexto fictício desenvolvido como parte da disciplina de Banco de Dados ministrada pelo professor [Abrantes Araújo Silva Filho](https://github.com/abrantesasf) no curso de Sistemas de Informação da Universidade de Vila Velha (UVV).
 
  O principal objetivo deste projeto é aplicar os conceitos e técnicas aprendidos em Banco de Dados para projetar e implementar um sistema de gerenciamento de informações sobre lojas da UVV.
 
