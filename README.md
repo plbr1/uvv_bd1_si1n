@@ -6,11 +6,6 @@
 
  O principal objetivo deste projeto é aplicar os conceitos e técnicas aprendidos em Banco de Dados para projetar e implementar um sistema de gerenciamento de informações sobre lojas da UVV.
 
-##### Matéria: Banco de Dados
-##### Curso: Sistemas de Informação
-##### Aluno: Pedro Luis Breda
-##### Turma: SI/1N
-
 ### Tecnologia utilizada
   -PostgreSQL
 
